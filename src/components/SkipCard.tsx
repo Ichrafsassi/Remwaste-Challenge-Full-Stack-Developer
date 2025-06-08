@@ -1,7 +1,7 @@
 import React from 'react';
 import { CheckCircle, Weight } from 'lucide-react';
 import { Skip } from '../types';
-import skipImage from '../assets/skipimage.png';
+import skipImage from '../assets/skipImage.png';
 
 interface SkipCardProps {
   skip: Skip;
