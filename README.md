@@ -12,6 +12,9 @@ A modern, responsive React web application for skip hire booking with a multi-st
 - **TypeScript**: Full type safety throughout the application
 - **Modern UI**: Clean design with Tailwind CSS and Lucide icons
 
+# Sandbox link
+https://codesandbox.io/p/github/Ichrafsassi/Remwaste-Challenge-Full-Stack-Developer/master?import=true
+
 ## 📋 Project Structure
 
 ```
